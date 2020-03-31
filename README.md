@@ -3,6 +3,7 @@
 ## Bash
 
 ```bash
+### 1. Find and remove empty files/directories
 find ./ -type f -empty	
 find ./ -type d -empty
 
